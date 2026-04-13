@@ -1,6 +1,6 @@
 # Ross Custom CSS Rmarkdown
 
-![rosslogo](Screenshot 2026-04-13 022603.png)
+![rosslogo](Screenshot.png)
 
 This is a custom Ross-branded CSS, perfect for business related data analytics assignments. It features the Ross logo as well, with a smooth user experience. 
 
