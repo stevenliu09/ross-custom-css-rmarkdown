@@ -1,12 +1,12 @@
 # Ross Custom CSS Rmarkdown
 
-![rosslogo](mross_bug_rgb_rev_maize-white.png)
+![rosslogo](Screenshot 2026-04-13 022603.png)
 
 This is a custom Ross-branded CSS, perfect for business related data analytics assignments. It features the Ross logo as well, with a smooth user experience. 
 
 ## How to use
 
-1. Download the files into your Rstudio project folder.
+1. Download the files (except the readme and screenshot) into your Rstudio project folder.
 2. Create your YAML
 
 ```
