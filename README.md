@@ -7,6 +7,7 @@ This is a custom Ross-branded CSS, perfect for business related data analytics a
 1. Download the files into your Rstudio project folder.
 2. Create your YAML
 
+```
 ---
 output:
   html_document:
@@ -16,6 +17,7 @@ output:
     includes:
       before_body: ross-header.html
 ---
+```
 
 That's it! Hope you enjoy.
 
