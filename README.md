@@ -1,5 +1,7 @@
 # Ross Custom CSS Rmarkdown
 
+![rosslogo](mross_bug_rgb_rev_maize-white.png)
+
 This is a custom Ross-branded CSS, perfect for business related data analytics assignments. It features the Ross logo as well, with a smooth user experience. 
 
 ## How to use
@@ -22,3 +24,5 @@ output:
 That's it! Hope you enjoy.
 
 This was created for an assignment in Technology and Operations 414. 
+
+(Disclaimer: I do not own the Ross logo)
