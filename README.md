@@ -1,4 +1,4 @@
-# Ross Custom CSS 
+# Ross Custom CSS Rmarkdown
 
 This is a custom Ross-branded CSS, perfect for business related data analytics assignments. It features the Ross logo as well, with a smooth user experience. 
 
