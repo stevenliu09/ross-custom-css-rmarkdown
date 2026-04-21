@@ -6,8 +6,9 @@ This is a custom Ross-branded CSS, perfect for business related data analytics a
 
 ## How to use
 
-1. Download the files (except the readme and screenshot) into your Rstudio project folder.
-2. Create your YAML
+1. Download the files into your Rstudio project folder.
+2. Edit your title, name, and date in ross-header.html
+3. Create your YAML. This will go at the top of the RMD file.
 
 ```
 ---
